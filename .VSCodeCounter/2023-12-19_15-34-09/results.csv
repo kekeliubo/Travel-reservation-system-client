@@ -1,0 +1,50 @@
+"filename", "language", "TypeScript JSX", "TypeScript", "Less", "CSS", "XML", "comment", "blank", "total"
+"e:\前端\travel-reservation-system-client\src\App.css", "CSS", 0, 0, 0, 37, 0, 0, 6, 43
+"e:\前端\travel-reservation-system-client\src\App.tsx", "TypeScript JSX", 32, 0, 0, 0, 0, 0, 2, 34
+"e:\前端\travel-reservation-system-client\src\assets\react.svg", "XML", 0, 0, 0, 0, 1, 0, 0, 1
+"e:\前端\travel-reservation-system-client\src\components\add-room\index.less", "Less", 0, 0, 0, 0, 0, 0, 1, 1
+"e:\前端\travel-reservation-system-client\src\components\add-room\index.tsx", "TypeScript JSX", 6, 0, 0, 0, 0, 0, 2, 8
+"e:\前端\travel-reservation-system-client\src\components\data-item\index.less", "Less", 0, 0, 30, 0, 0, 0, 0, 30
+"e:\前端\travel-reservation-system-client\src\components\data-item\index.tsx", "TypeScript JSX", 28, 0, 0, 0, 0, 0, 2, 30
+"e:\前端\travel-reservation-system-client\src\hooks\useBus.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 0, 18
+"e:\前端\travel-reservation-system-client\src\hooks\useFlight.ts", "TypeScript", 0, 21, 0, 0, 0, 0, 1, 22
+"e:\前端\travel-reservation-system-client\src\hooks\useHotel.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 0, 18
+"e:\前端\travel-reservation-system-client\src\hooks\useReserve.ts", "TypeScript", 0, 78, 0, 0, 0, 0, 3, 81
+"e:\前端\travel-reservation-system-client\src\hooks\useUser.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 2, 20
+"e:\前端\travel-reservation-system-client\src\index.less", "Less", 0, 0, 3, 0, 0, 0, 0, 3
+"e:\前端\travel-reservation-system-client\src\main.tsx", "TypeScript JSX", 11, 0, 0, 0, 0, 0, 2, 13
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\bus\index.less", "Less", 0, 0, 38, 0, 0, 0, 0, 38
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\bus\index.tsx", "TypeScript JSX", 175, 0, 0, 0, 0, 0, 3, 178
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\flight\index.less", "Less", 0, 0, 38, 0, 0, 0, 0, 38
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\flight\index.tsx", "TypeScript JSX", 209, 0, 0, 0, 0, 0, 4, 213
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\hotel\index.less", "Less", 0, 0, 38, 0, 0, 0, 0, 38
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\hotel\index.tsx", "TypeScript JSX", 180, 0, 0, 0, 0, 0, 4, 184
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\index.less", "Less", 0, 0, 92, 0, 0, 0, 0, 92
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\index.tsx", "TypeScript JSX", 92, 0, 0, 0, 0, 0, 7, 99
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\reserve\index.less", "Less", 0, 0, 42, 0, 0, 0, 0, 42
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\reserve\index.tsx", "TypeScript JSX", 148, 0, 0, 0, 0, 0, 4, 152
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\user\index.less", "Less", 0, 0, 39, 0, 0, 0, 0, 39
+"e:\前端\travel-reservation-system-client\src\pages\dashboard\user\index.tsx", "TypeScript JSX", 126, 0, 0, 0, 0, 0, 4, 130
+"e:\前端\travel-reservation-system-client\src\pages\user\index.less", "Less", 0, 0, 0, 0, 0, 0, 1, 1
+"e:\前端\travel-reservation-system-client\src\pages\user\index.tsx", "TypeScript JSX", 5, 0, 0, 0, 0, 0, 3, 8
+"e:\前端\travel-reservation-system-client\src\route\index.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 1, 1
+"e:\前端\travel-reservation-system-client\src\service\bus\index.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 3, 21
+"e:\前端\travel-reservation-system-client\src\service\config\index.ts", "TypeScript", 0, 8, 0, 0, 0, 2, 2, 12
+"e:\前端\travel-reservation-system-client\src\service\customer\index.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 3, 21
+"e:\前端\travel-reservation-system-client\src\service\flights\index.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 3, 21
+"e:\前端\travel-reservation-system-client\src\service\hotel\index.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 3, 21
+"e:\前端\travel-reservation-system-client\src\service\index.ts", "TypeScript", 0, 7, 0, 0, 0, 0, 3, 10
+"e:\前端\travel-reservation-system-client\src\service\request\index.ts", "TypeScript", 0, 72, 0, 0, 0, 2, 13, 87
+"e:\前端\travel-reservation-system-client\src\service\reservations\index.ts", "TypeScript", 0, 19, 0, 0, 0, 0, 3, 22
+"e:\前端\travel-reservation-system-client\src\store\bus\index.ts", "TypeScript", 0, 17, 0, 0, 0, 0, 2, 19
+"e:\前端\travel-reservation-system-client\src\store\flights\index.ts", "TypeScript", 0, 20, 0, 0, 0, 0, 3, 23
+"e:\前端\travel-reservation-system-client\src\store\hotel\index.ts", "TypeScript", 0, 17, 0, 0, 0, 0, 1, 18
+"e:\前端\travel-reservation-system-client\src\store\reservations\index.ts", "TypeScript", 0, 13, 0, 0, 0, 0, 2, 15
+"e:\前端\travel-reservation-system-client\src\store\user\idnex.ts", "TypeScript", 0, 17, 0, 0, 0, 0, 1, 18
+"e:\前端\travel-reservation-system-client\src\type\bus.ts", "TypeScript", 0, 7, 0, 0, 0, 0, 5, 12
+"e:\前端\travel-reservation-system-client\src\type\customers.ts", "TypeScript", 0, 4, 0, 0, 0, 0, 3, 7
+"e:\前端\travel-reservation-system-client\src\type\flights.ts", "TypeScript", 0, 8, 0, 0, 0, 0, 6, 14
+"e:\前端\travel-reservation-system-client\src\type\hotel.ts", "TypeScript", 0, 7, 0, 0, 0, 0, 4, 11
+"e:\前端\travel-reservation-system-client\src\type\reservations.ts", "TypeScript", 0, 6, 0, 0, 0, 0, 1, 7
+"e:\前端\travel-reservation-system-client\src\vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 1, 1, 2
+"Total", "-", 1012, 447, 320, 37, 1, 5, 114, 1936

@@ -1,0 +1,108 @@
+Date : 2023-12-19 15:34:09
+Directory : e:\前端\travel-reservation-system-client\src
+Total : 48 files,  1817 codes, 5 comments, 114 blanks, all 1936 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| TypeScript JSX |         11 |      1,012 |          0 |         37 |      1,049 |
+| TypeScript     |         25 |        447 |          5 |         69 |        521 |
+| Less           |         10 |        320 |          0 |          2 |        322 |
+| CSS            |          1 |         37 |          0 |          6 |         43 |
+| XML            |          1 |          1 |          0 |          0 |          1 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                          | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                             |         48 |      1,817 |          5 |        114 |      1,936 |
+| . (Files)                                                                     |          5 |         83 |          1 |         11 |         95 |
+| assets                                                                        |          1 |          1 |          0 |          0 |          1 |
+| components                                                                    |          4 |         64 |          0 |          5 |         69 |
+| components\add-room                                                           |          2 |          6 |          0 |          3 |          9 |
+| components\data-item                                                          |          2 |         58 |          0 |          2 |         60 |
+| hooks                                                                         |          5 |        153 |          0 |          6 |        159 |
+| pages                                                                         |         14 |      1,222 |          0 |         30 |      1,252 |
+| pages\dashboard                                                               |         12 |      1,217 |          0 |         26 |      1,243 |
+| pages\dashboard (Files)                                                       |          2 |        184 |          0 |          7 |        191 |
+| pages\dashboard\bus                                                           |          2 |        213 |          0 |          3 |        216 |
+| pages\dashboard\flight                                                        |          2 |        247 |          0 |          4 |        251 |
+| pages\dashboard\hotel                                                         |          2 |        218 |          0 |          4 |        222 |
+| pages\dashboard\reserve                                                       |          2 |        190 |          0 |          4 |        194 |
+| pages\dashboard\user                                                          |          2 |        165 |          0 |          4 |        169 |
+| pages\user                                                                    |          2 |          5 |          0 |          4 |          9 |
+| route                                                                         |          1 |          0 |          0 |          1 |          1 |
+| service                                                                       |          8 |        178 |          4 |         33 |        215 |
+| service (Files)                                                               |          1 |          7 |          0 |          3 |         10 |
+| service\bus                                                                   |          1 |         18 |          0 |          3 |         21 |
+| service\config                                                                |          1 |          8 |          2 |          2 |         12 |
+| service\customer                                                              |          1 |         18 |          0 |          3 |         21 |
+| service\flights                                                               |          1 |         18 |          0 |          3 |         21 |
+| service\hotel                                                                 |          1 |         18 |          0 |          3 |         21 |
+| service\request                                                               |          1 |         72 |          2 |         13 |         87 |
+| service\reservations                                                          |          1 |         19 |          0 |          3 |         22 |
+| store                                                                         |          5 |         84 |          0 |          9 |         93 |
+| store\bus                                                                     |          1 |         17 |          0 |          2 |         19 |
+| store\flights                                                                 |          1 |         20 |          0 |          3 |         23 |
+| store\hotel                                                                   |          1 |         17 |          0 |          1 |         18 |
+| store\reservations                                                            |          1 |         13 |          0 |          2 |         15 |
+| store\user                                                                    |          1 |         17 |          0 |          1 |         18 |
+| type                                                                          |          5 |         32 |          0 |         19 |         51 |
++-------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                                                      | language       | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+
+| e:\前端\travel-reservation-system-client\src\App.css                            | CSS            |         37 |          0 |          6 |         43 |
+| e:\前端\travel-reservation-system-client\src\App.tsx                            | TypeScript JSX |         32 |          0 |          2 |         34 |
+| e:\前端\travel-reservation-system-client\src\assets\react.svg                   | XML            |          1 |          0 |          0 |          1 |
+| e:\前端\travel-reservation-system-client\src\components\add-room\index.less     | Less           |          0 |          0 |          1 |          1 |
+| e:\前端\travel-reservation-system-client\src\components\add-room\index.tsx      | TypeScript JSX |          6 |          0 |          2 |          8 |
+| e:\前端\travel-reservation-system-client\src\components\data-item\index.less    | Less           |         30 |          0 |          0 |         30 |
+| e:\前端\travel-reservation-system-client\src\components\data-item\index.tsx     | TypeScript JSX |         28 |          0 |          2 |         30 |
+| e:\前端\travel-reservation-system-client\src\hooks\useBus.ts                    | TypeScript     |         18 |          0 |          0 |         18 |
+| e:\前端\travel-reservation-system-client\src\hooks\useFlight.ts                 | TypeScript     |         21 |          0 |          1 |         22 |
+| e:\前端\travel-reservation-system-client\src\hooks\useHotel.ts                  | TypeScript     |         18 |          0 |          0 |         18 |
+| e:\前端\travel-reservation-system-client\src\hooks\useReserve.ts                | TypeScript     |         78 |          0 |          3 |         81 |
+| e:\前端\travel-reservation-system-client\src\hooks\useUser.ts                   | TypeScript     |         18 |          0 |          2 |         20 |
+| e:\前端\travel-reservation-system-client\src\index.less                         | Less           |          3 |          0 |          0 |          3 |
+| e:\前端\travel-reservation-system-client\src\main.tsx                           | TypeScript JSX |         11 |          0 |          2 |         13 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\bus\index.less     | Less           |         38 |          0 |          0 |         38 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\bus\index.tsx      | TypeScript JSX |        175 |          0 |          3 |        178 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\flight\index.less  | Less           |         38 |          0 |          0 |         38 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\flight\index.tsx   | TypeScript JSX |        209 |          0 |          4 |        213 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\hotel\index.less   | Less           |         38 |          0 |          0 |         38 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\hotel\index.tsx    | TypeScript JSX |        180 |          0 |          4 |        184 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\index.less         | Less           |         92 |          0 |          0 |         92 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\index.tsx          | TypeScript JSX |         92 |          0 |          7 |         99 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\reserve\index.less | Less           |         42 |          0 |          0 |         42 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\reserve\index.tsx  | TypeScript JSX |        148 |          0 |          4 |        152 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\user\index.less    | Less           |         39 |          0 |          0 |         39 |
+| e:\前端\travel-reservation-system-client\src\pages\dashboard\user\index.tsx     | TypeScript JSX |        126 |          0 |          4 |        130 |
+| e:\前端\travel-reservation-system-client\src\pages\user\index.less              | Less           |          0 |          0 |          1 |          1 |
+| e:\前端\travel-reservation-system-client\src\pages\user\index.tsx               | TypeScript JSX |          5 |          0 |          3 |          8 |
+| e:\前端\travel-reservation-system-client\src\route\index.ts                     | TypeScript     |          0 |          0 |          1 |          1 |
+| e:\前端\travel-reservation-system-client\src\service\bus\index.ts               | TypeScript     |         18 |          0 |          3 |         21 |
+| e:\前端\travel-reservation-system-client\src\service\config\index.ts            | TypeScript     |          8 |          2 |          2 |         12 |
+| e:\前端\travel-reservation-system-client\src\service\customer\index.ts          | TypeScript     |         18 |          0 |          3 |         21 |
+| e:\前端\travel-reservation-system-client\src\service\flights\index.ts           | TypeScript     |         18 |          0 |          3 |         21 |
+| e:\前端\travel-reservation-system-client\src\service\hotel\index.ts             | TypeScript     |         18 |          0 |          3 |         21 |
+| e:\前端\travel-reservation-system-client\src\service\index.ts                   | TypeScript     |          7 |          0 |          3 |         10 |
+| e:\前端\travel-reservation-system-client\src\service\request\index.ts           | TypeScript     |         72 |          2 |         13 |         87 |
+| e:\前端\travel-reservation-system-client\src\service\reservations\index.ts      | TypeScript     |         19 |          0 |          3 |         22 |
+| e:\前端\travel-reservation-system-client\src\store\bus\index.ts                 | TypeScript     |         17 |          0 |          2 |         19 |
+| e:\前端\travel-reservation-system-client\src\store\flights\index.ts             | TypeScript     |         20 |          0 |          3 |         23 |
+| e:\前端\travel-reservation-system-client\src\store\hotel\index.ts               | TypeScript     |         17 |          0 |          1 |         18 |
+| e:\前端\travel-reservation-system-client\src\store\reservations\index.ts        | TypeScript     |         13 |          0 |          2 |         15 |
+| e:\前端\travel-reservation-system-client\src\store\user\idnex.ts                | TypeScript     |         17 |          0 |          1 |         18 |
+| e:\前端\travel-reservation-system-client\src\type\bus.ts                        | TypeScript     |          7 |          0 |          5 |         12 |
+| e:\前端\travel-reservation-system-client\src\type\customers.ts                  | TypeScript     |          4 |          0 |          3 |          7 |
+| e:\前端\travel-reservation-system-client\src\type\flights.ts                    | TypeScript     |          8 |          0 |          6 |         14 |
+| e:\前端\travel-reservation-system-client\src\type\hotel.ts                      | TypeScript     |          7 |          0 |          4 |         11 |
+| e:\前端\travel-reservation-system-client\src\type\reservations.ts               | TypeScript     |          6 |          0 |          1 |          7 |
+| e:\前端\travel-reservation-system-client\src\vite-env.d.ts                      | TypeScript     |          0 |          1 |          1 |          2 |
+| Total                                                                         |                |      1,817 |          5 |        114 |      1,936 |
++-------------------------------------------------------------------------------+----------------+------------+------------+------------+------------+

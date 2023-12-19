@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+.home{
+    width: 100%;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+    .header{
+        height: 70px;
+        background-color: #fff;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 10px;
+       .right{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        .message{
+            font-size: 22px;
+            margin: 0 20px;
+        }
+        .idea{
+            font-size: 22px;
+           margin-right: 50px;
+        }
+        .avatar{
+            margin-right: 100px;
+            cursor: pointer;
+            border: 1px solid #ccc;
+         }
+       }
+    }
+    .main{
+       padding: 24;
+       height: 100%;
+       background-color: #f3f3f3;
+    }
+    .slide{
+        width: 200px;
+        height: 100vh;
+        background-color: #4e3f6c;
+        &-title{
+            width: 100%;
+            height: 40px;
+            font-size: 22px;
+            margin-bottom: 20px;
+            padding: 10px 0;
+            color: #fff;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .img{
+            width: 100%;
+            height: 100px;
+            background-image: url(../../assets/travel.jpeg);
+            background-size: cover;
+            margin-bottom: 20px;
+        }   
+        ul{
+            width: 100%;
+            cursor: pointer;
+            color: #dcdcc8;
+            li{
+                width: 100%;
+                height: 50px;
+                line-height: 50px;
+                text-indent: 2em;
+                &:hover{
+                    color: aliceblue;
+                }
+            }
+        }
+    }
+}
+.avatar-list{
+    list-style: none;
+    font-size: 16px;
+    li{
+        width: 100px;
+        height: 40px;
+        line-height: 40px;
+        text-align: center;
+        cursor: pointer;
+        &:hover{
+            color: #ccc;
+        }
+    }
+}
